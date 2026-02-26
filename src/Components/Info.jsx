@@ -8,8 +8,8 @@ export default function Info() {
         <img className="w-full" src={Rasm} alt="Rasm" />
         <img className="absolute top-0 w-full" src={Praz} alt="Prazrachniy" />
         <div className="absolute top-[50%] left-[50%] text-center translate-x-[-50%] translate-y-[-50%] max-w-[746px] w-full">
-          <h2 className="text-white">Welcome to Local Face</h2>
-          <p className="text-white">
+          <h2 className=" text-[#AB572D] text-[50px] font-medium mb-[30px]">Welcome to Local Face</h2>
+          <p className="text-white font-light text-[20px]">
             Welcome to Local Face Perfumes, where the spirit of victory and
             triumph come alive through scents that empower and inspire. Our
             curated collection, aptly named "Victory Scented," is a celebration
